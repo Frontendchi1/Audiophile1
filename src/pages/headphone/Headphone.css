@@ -1,0 +1,18 @@
+.us {
+    background-color: #0E0E0E;
+    padding-top: 98px;
+    padding-bottom: 95px;
+    text-align: center;
+
+}
+.title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+}
+.one{
+    display: flex;
+    align-items: center;
+    gap: 125px;
+}
